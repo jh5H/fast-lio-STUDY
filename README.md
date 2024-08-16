@@ -15,7 +15,7 @@
 
 [FAST-LIO2 논문 리뷰]
 
-   > https://alida.tistory.com/102
+- fast-lio
  
    > https://taeyoung96.github.io/research/Fast_LIO/
  
@@ -24,8 +24,13 @@
    > https://velog.io/@shj4901/FAST-LIO-A-Fast-Robust-LiDAR-inertial-Odometry-Package-by-Tightly-Coupled-Iterated-Kalman-Filter-%EB%A6%AC%EB%B7%B0
 
 
+- fast-lio2
+
+  > https://alida.tistory.com/102
 
 [imu 원리]
+
+- imu
 
   > https://velog.io/@717lumos/Sensor-IMU%EC%9D%98-%EA%B0%9C%EB%85%90-%EB%B0%8F-%ED%99%9C%EC%9A%A9%EB%B2%95
  
@@ -35,6 +40,8 @@
  
 
 [Lidar pointcloud]
+
+- lidar
 
    > https://gaussian37.github.io/autodrive-lidar-intro/
  
