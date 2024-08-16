@@ -30,7 +30,7 @@
 <br/>
 
       
-[FAST-LIO2 논문 리뷰]
+[FAST-LIO 논문 리뷰]
 
 - fast-lio
  
