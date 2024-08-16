@@ -62,5 +62,13 @@ cd ~/fast-lio-STUDY/witmotion_ros/scripts/
 ros2 launch witmotion_ros wt901_launch.py 
 ```
 
+<br/>
+<br/>
+<br/>
 
+ > 토픽 데이터 확인
+
+```bash
+ros2 topic echo /imu
+```
 
