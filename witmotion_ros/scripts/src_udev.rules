@@ -1,4 +1,0 @@
-
-# witmotion WT901CTTL
-KERNEL=="ttyUSB*", ATTRS{idVendor}=="1a86", ATTRS{idProduct}=="75**", MODE:="0777", SYMLINK+="WITMOTION"
-
