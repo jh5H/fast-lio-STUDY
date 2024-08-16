@@ -36,9 +36,9 @@
 
   > https://gaussian37.github.io/autodrive-lidar-intro/
 
-> https://gaussian37.github.io/autodrive-lidar-lidar_pointcloud_process/
+  > https://gaussian37.github.io/autodrive-lidar-lidar_pointcloud_process/
 
-> https://velog.io/@jolabokaflod/stereo-disparity-estimation
+  > https://velog.io/@jolabokaflod/stereo-disparity-estimation
 
 
 
