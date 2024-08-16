@@ -1,10 +1,25 @@
 # fast-lio-STUDY
 16/08/2024 ~ 
 
+[FAST-LIO paper]
+
+-fast-lio
+> https://arxiv.org/pdf/2010.08196
+
+- fast-lio2
+> https://arxiv.org/pdf/2107.06829
+
+
 
 [FAST-LIO2 논문 리뷰]
 
 https://alida.tistory.com/102
+
+https://taeyoung96.github.io/research/Fast_LIO/
+
+https://lee-jaewon.github.io/slam/fastlio/
+
+https://velog.io/@shj4901/FAST-LIO-A-Fast-Robust-LiDAR-inertial-Odometry-Package-by-Tightly-Coupled-Iterated-Kalman-Filter-%EB%A6%AC%EB%B7%B0
 
 
 
