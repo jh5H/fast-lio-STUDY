@@ -38,7 +38,7 @@ git clone https://github.com/jh5H/fast-lio-STUDY.git
  > wt901_launch.py, wt901.yml 파일을 바꿔줍니다.  
 
 ```bash
-cd ~/fast-lio-STUDY/240816/witmotion_ros/
+cd ~/fast-lio-STUDY/240816/witmotion_imu/
 cp wt901_launch.py ~/ros2_ws/src/witmotion_ros/launch/
 cp wt901.yml ~/ros2_ws/src/witmotion_ros/config/
 ```
@@ -49,7 +49,7 @@ cp wt901.yml ~/ros2_ws/src/witmotion_ros/config/
  > rule 적용  
 
 ```bash
-cd ~/fast-lio-STUDY/240816/witmotion_ros/scripts/
+cd ~/fast-lio-STUDY/240816/witmotion_imu/scripts/
 ./create_udev_rules.sh
 ```
 <br/>
