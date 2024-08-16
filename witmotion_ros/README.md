@@ -3,7 +3,10 @@
 ./create_udev_rules.sh
 ```
 
- > wt901_launch.py 파일을 바꿔줍니다.  
+ > wt901_launch.py 파일을 바꿔줍니다.
+
+<br/>
+
  > wt901.yml 파일을 바꿔줍니다.
 
 <br/>
