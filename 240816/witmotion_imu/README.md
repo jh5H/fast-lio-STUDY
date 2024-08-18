@@ -41,6 +41,9 @@ git clone https://github.com/jh5H/fast-lio-STUDY.git
 cd ~/fast-lio-STUDY/240816/witmotion_imu/
 cp wt901_launch.py ~/ros2_ws/src/witmotion_ros/launch/
 cp wt901.yml ~/ros2_ws/src/witmotion_ros/config/
+cd ~/ros2_ws
+cbp witmotion_ros
+humble
 ```
 <br/>
 <br/>
