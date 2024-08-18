@@ -2,6 +2,7 @@
 [witmotion_ros 패키지 설치]  
 
 
+
 ```bash
 sudo apt-get install libqt5serialport5-dev
 ```
@@ -75,3 +76,23 @@ ros2 launch witmotion_ros wt901_launch.py
 ros2 topic echo /imu
 ```
 
+
+
+[Troubleshooting]
+
+
+IMU 연결 후 /dev 경로에 ttyUSB*가 잡히지 않는다면 해당 패키지를 삭제해줍니다.
+
+<br/>
+
+
+```bash
+ls /dev/ttyUSB*
+```
+
+<br/>
+
+
+```bash
+sudo apt remove brltty -y
+```
